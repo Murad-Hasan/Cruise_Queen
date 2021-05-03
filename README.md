@@ -20,5 +20,4 @@ Live Link: [ Cruise_Queen ]( https://murad-hasan.github.io/Cruise_Queen/ )
 - [x] CSS
 - [x] Bootstrap
 - [x] JavaScript
-- [x] Netlify
 - [x] GitHub
